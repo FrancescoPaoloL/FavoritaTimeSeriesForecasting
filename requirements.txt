@@ -1,0 +1,8 @@
+category_encoders==2.5.1.post0
+ipython==8.10.0
+lightgbm==3.3.3
+numpy==1.13.3
+pandas==1.1.5
+pandas_profiling==3.0.0
+scikit_learn==1.2.1
+xgboost==1.5.2
